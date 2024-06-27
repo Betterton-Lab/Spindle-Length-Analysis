@@ -192,7 +192,6 @@ for idx = 1 : length(data_list)
     cd ..
     lvt_plot_name = strcat(data_list(idx), '_lvts.png');
     saveas(gcf, lvt_plot_name);
-    cd 'C:\Research\Projects\Current Biology Paper\Software\BatchLVT\'
     
 end
 
