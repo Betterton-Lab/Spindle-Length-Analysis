@@ -17,8 +17,6 @@ data_list = ["001_A","001_B","002_A","002_B","002_C","002_D","002_E","002_F","00
              "003_A","003_B","003_C","003_D","003_E","003_F","003_G","003_H","003_I","003_J","003_K"];
 data_path_mov = "C:\Research\Data\" + mutant_type + "\Segmented Cells\1201_100R_100G_25 deg_" + data_list + ".mat";
 
-data_list = "003_H";
-
 % mutant_type = "cut7_phospho\FL\9D";
 % data_list = ["002_B","002_C","002_D","002_E","002_F","002_G",...
 %              "003_A","003_B","003_D","003_E","003_F","003_G","003_H",...
